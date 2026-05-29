@@ -1,5 +1,9 @@
 # Git VCS Masterclass: Basics → Professional
 
+---
+<img src="./git-cover.png" alt="git cover"/>
+---
+
 ## 1. What Git Actually Is
 
 **Git** is a **distributed version control system**.
